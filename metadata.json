@@ -6,7 +6,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2005:12:16 13:45:46",
-        "modele_camera": "Canon EOS 10D"
+        "modele_camera": "Canon EOS 10D",
+        "colors": [
+            "#6e7989",
+            "#555b27",
+            "#95a8c1",
+            "#26301b",
+            "#dddad7"
+        ]
     },
     {
         "nom": "006Spirit%20Lake%20pre%20resize%20%2822027452382%29.jpg",
@@ -15,7 +22,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#406e7d",
+            "#a5b6ab",
+            "#2b4145",
+            "#5291a6",
+            "#66858a"
+        ]
     },
     {
         "nom": "2006-05-21-153901%20Iceland%20St%C3%B3rin%C3%BApur.jpg",
@@ -24,7 +38,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2006:05:21 15:39:01",
-        "modele_camera": "E8800"
+        "modele_camera": "E8800",
+        "colors": [
+            "#cfd0d1",
+            "#393427",
+            "#516274",
+            "#a7b4bf",
+            "#161610"
+        ]
     },
     {
         "nom": "981012-Damavand-South-IMG%209861-2.jpg",
@@ -33,7 +54,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2020:01:02 07:21:18",
-        "modele_camera": "Canon EOS 50D"
+        "modele_camera": "Canon EOS 50D",
+        "colors": [
+            "#577398",
+            "#05101d",
+            "#5091cd",
+            "#c6b3a7",
+            "#24456e"
+        ]
     },
     {
         "nom": "Acotango.jpg",
@@ -42,7 +70,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#45443f",
+            "#416dbb",
+            "#354a79",
+            "#6a88be",
+            "#59596a"
+        ]
     },
     {
         "nom": "Aerial%20image%20of%20Vulcano%20%28view%20from%20the%20east%29.jpg",
@@ -51,7 +86,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2022:05:22 12:23:04",
-        "modele_camera": "NIKON D5"
+        "modele_camera": "NIKON D5",
+        "colors": [
+            "#bed5e4",
+            "#105a9a",
+            "#89aecd",
+            "#6d777b",
+            "#4e88bb"
+        ]
     },
     {
         "nom": "Ampato023.jpg",
@@ -60,7 +102,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#96a5cd",
+            "#897d70",
+            "#ccd9ef",
+            "#afc3e5",
+            "#9e9283"
+        ]
     },
     {
         "nom": "AmpatoSabancaya.jpg",
@@ -69,7 +118,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#515331",
+            "#ebe5e4",
+            "#341b04",
+            "#737a68",
+            "#adb1ac"
+        ]
     },
     {
         "nom": "Antisana.jpg",
@@ -78,7 +134,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#dadbd2",
+            "#0c151b",
+            "#a2a0a2",
+            "#615c62",
+            "#b9cedc"
+        ]
     },
     {
         "nom": "Baitou%20Mountain%20Tianchi.jpg",
@@ -87,7 +150,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#7fa8d1",
+            "#35709b",
+            "#ae9173",
+            "#d6dce9",
+            "#3c3c3e"
+        ]
     },
     {
         "nom": "Cabaray.jpg",
@@ -96,7 +166,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2004:05:12 12:00:44",
-        "modele_camera": "DCS760C"
+        "modele_camera": "DCS760C",
+        "colors": [
+            "#80644e",
+            "#614736",
+            "#a48c76",
+            "#2b201c",
+            "#d6cdc5"
+        ]
     },
     {
         "nom": "Calbuco%2011%20Feb%202010%20zoomed%20in.jpg",
@@ -105,7 +182,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2010:02:11 18:25:32",
-        "modele_camera": "DSC-H2"
+        "modele_camera": "DSC-H2",
+        "colors": [
+            "#56676e",
+            "#98c8f4",
+            "#1c1f10",
+            "#748da4",
+            "#494e28"
+        ]
     },
     {
         "nom": "Caldera%20Mt%20Tambora%20Sumbawa%20Indonesia.jpg",
@@ -114,7 +198,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2011:06:07 10:51:47",
-        "modele_camera": "Canon EOS REBEL T2i"
+        "modele_camera": "Canon EOS REBEL T2i",
+        "colors": [
+            "#767a8a",
+            "#29212e",
+            "#ced3df",
+            "#789cda",
+            "#565256"
+        ]
     },
     {
         "nom": "Carihuairazo1996.jpg",
@@ -123,7 +214,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "1996:12:08 22:27:03",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#494847",
+            "#9ba7c8",
+            "#dfe6f1",
+            "#6a655c",
+            "#2d2a24"
+        ]
     },
     {
         "nom": "Cerro%20paniri%20and%20volcan%20san%20pablo%20chile%20ii%20region.jpg",
@@ -132,7 +230,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2008:02:23 10:35:31",
-        "modele_camera": "NIKON D200"
+        "modele_camera": "NIKON D200",
+        "colors": [
+            "#98b6ce",
+            "#544c59",
+            "#76a7ca",
+            "#55370e",
+            "#5582a9"
+        ]
     },
     {
         "nom": "Chachani%20summit%20edited.jpg",
@@ -141,7 +246,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2007:10:06 08:46:13",
-        "modele_camera": "NIKON D50"
+        "modele_camera": "NIKON D50",
+        "colors": [
+            "#241e1f",
+            "#b5b1b7",
+            "#78655f",
+            "#385684",
+            "#9a8a86"
+        ]
     },
     {
         "nom": "Chachani.jpg",
@@ -150,7 +262,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#cba878",
+            "#8c7641",
+            "#6e8fb8",
+            "#463417",
+            "#908980"
+        ]
     },
     {
         "nom": "Guadeloupe%20114%20-%20Sommet%20de%20la%20Soufri%C3%A8re%201467m%20-%20Guadeloupe.jpg",
@@ -159,7 +278,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2006:04:28 22:21:22",
-        "modele_camera": "Revio KD-420Z"
+        "modele_camera": "Revio KD-420Z",
+        "colors": [
+            "#35370c",
+            "#bcccde",
+            "#7b763b",
+            "#5e5d25",
+            "#e9eef1"
+        ]
     },
     {
         "nom": "Gunung%20Rinjani%20dari%20Jalur%20Sembalun.jpg",
@@ -168,7 +294,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2017:04:12 07:47:50",
-        "modele_camera": "Canon EOS 70D"
+        "modele_camera": "Canon EOS 70D",
+        "colors": [
+            "#6596e0",
+            "#424424",
+            "#9cb6ea",
+            "#696232",
+            "#626467"
+        ]
     },
     {
         "nom": "Habitat%20du%20Chinchilla%20brevicaudata%20-%20Lllullaillaco.jpg",
@@ -177,7 +310,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#876f8f",
+            "#4972da",
+            "#b4acc9",
+            "#5d518c",
+            "#422e59"
+        ]
     },
     {
         "nom": "Il%20cratere%20del%20Vulcano%20-%20panoramio.jpg",
@@ -186,7 +326,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2012:01:07 15:53:40",
-        "modele_camera": "Canon PowerShot G11"
+        "modele_camera": "Canon PowerShot G11",
+        "colors": [
+            "#021151",
+            "#899489",
+            "#3e7485",
+            "#cfd6cf",
+            "#9dd5ec"
+        ]
     },
     {
         "nom": "Illiniza%20Route-a%202012.jpg",
@@ -195,7 +342,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2012:10:15 07:30:17",
-        "modele_camera": "Canon PowerShot G11"
+        "modele_camera": "Canon PowerShot G11",
+        "colors": [
+            "#99a6b6",
+            "#6d7176",
+            "#6db6f6",
+            "#374c68",
+            "#8dccfb"
+        ]
     },
     {
         "nom": "ISS022-E-39042%20-%20View%20of%20the%20Lesser%20Antilles.jpg",
@@ -204,7 +358,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2010:01:23 13:49:40",
-        "modele_camera": "NIKON D2Xs"
+        "modele_camera": "NIKON D2Xs",
+        "colors": [
+            "#2e5375",
+            "#616c77",
+            "#516371",
+            "#425a6e",
+            "#70767e"
+        ]
     },
     {
         "nom": "Kronotsky%20volcano.jpg",
@@ -213,7 +374,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2007:10:30 18:00:50",
-        "modele_camera": "NIKON D2X"
+        "modele_camera": "NIKON D2X",
+        "colors": [
+            "#878d8e",
+            "#6f6a68",
+            "#a7b0b0",
+            "#55351d",
+            "#855321"
+        ]
     },
     {
         "nom": "La%20Pel%C3%A9e%20vue%20du%20Carbet.jpg",
@@ -222,7 +390,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#a5bcc1",
+            "#20351f",
+            "#e5f2fb",
+            "#49543f",
+            "#788b8f"
+        ]
     },
     {
         "nom": "Mayon%20Volcano%20as%20of%20March%202020.jpg",
@@ -231,7 +406,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2020:03:14 08:08:02",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#559bed",
+            "#6e7c32",
+            "#84c3f7",
+            "#486379",
+            "#4d5b27"
+        ]
     },
     {
         "nom": "MayonVolcano.jpg",
@@ -240,7 +422,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#97a0b3",
+            "#ded9ca",
+            "#7c684d",
+            "#948575",
+            "#b1bfcc"
+        ]
     },
     {
         "nom": "Mkinvarcveri.jpg",
@@ -249,7 +438,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#9e7a84",
+            "#120f16",
+            "#777ea3",
+            "#46485a",
+            "#e59786"
+        ]
     },
     {
         "nom": "Montes%20Cabaliani.jpg",
@@ -258,7 +454,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#edf3f4",
+            "#11100e",
+            "#91969e",
+            "#ccc1c0",
+            "#5f6367"
+        ]
     },
     {
         "nom": "Morne%20Diablotins.jpg",
@@ -267,7 +470,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#f6f5e4",
+            "#2c4e2a",
+            "#8f9990",
+            "#bfc1b6",
+            "#637968"
+        ]
     },
     {
         "nom": "Mount%20Adams.jpg",
@@ -276,7 +486,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#9a97bf",
+            "#5a4563",
+            "#806c86",
+            "#33253a",
+            "#dcd9de"
+        ]
     },
     {
         "nom": "Mount%20Agung%2C%20November%202017%20eruption%20-%2027%20Nov%202017%2003.jpg",
@@ -285,7 +502,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2017:11:27 07:02:35",
-        "modele_camera": "iPhone 7"
+        "modele_camera": "iPhone 7",
+        "colors": [
+            "#f8f8fb",
+            "#515f70",
+            "#cbd1e5",
+            "#373525",
+            "#989cab"
+        ]
     },
     {
         "nom": "Mount%20Baker%2022101.JPG",
@@ -294,7 +518,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2007:08:13 17:48:37",
-        "modele_camera": "DMC-FZ5"
+        "modele_camera": "DMC-FZ5",
+        "colors": [
+            "#4f533a",
+            "#5b8cc0",
+            "#2b3216",
+            "#bec5c6",
+            "#808586"
+        ]
     },
     {
         "nom": "Mount%20Hood%20reflected%20in%20Mirror%20Lake%2C%20Oregon.jpg",
@@ -303,7 +534,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#1a1c1a",
+            "#415695",
+            "#bdbbcb",
+            "#40492c",
+            "#283059"
+        ]
     },
     {
         "nom": "Mount%20Iliamna.jpg",
@@ -312,7 +550,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2006:03:09 13:23:16",
-        "modele_camera": "NIKON D70"
+        "modele_camera": "NIKON D70",
+        "colors": [
+            "#748e9e",
+            "#9cb1b8",
+            "#0f171a",
+            "#dbddd6",
+            "#4e524e"
+        ]
     },
     {
         "nom": "Mount%20Merapi%20Not%20Just%20a%20Legend%20and%20Mythology.jpg",
@@ -321,7 +566,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2019:05:04 07:05:35",
-        "modele_camera": "Canon EOS 1300D"
+        "modele_camera": "Canon EOS 1300D",
+        "colors": [
+            "#afccf4",
+            "#6f783b",
+            "#526d7f",
+            "#79b1e8",
+            "#364133"
+        ]
     },
     {
         "nom": "Mount%20Rainier%205917s.JPG",
@@ -330,7 +582,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2008:10:22 11:19:11",
-        "modele_camera": "Canon EOS DIGITAL REBEL XSi"
+        "modele_camera": "Canon EOS DIGITAL REBEL XSi",
+        "colors": [
+            "#303a43",
+            "#d5d8db",
+            "#83a3c1",
+            "#657486",
+            "#151a1a"
+        ]
     },
     {
         "nom": "Mount%20Saint%20Catherine%20Summit.jpg",
@@ -339,7 +598,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2015:10:03 12:26:24",
-        "modele_camera": "Canon PowerShot S110"
+        "modele_camera": "Canon PowerShot S110",
+        "colors": [
+            "#55680b",
+            "#7cacde",
+            "#c0cce0",
+            "#34450b",
+            "#566f53"
+        ]
     },
     {
         "nom": "Mount%20Semeru.jpg",
@@ -348,7 +614,14 @@
         "format": "JPEG",
         "orientation": "Portrait",
         "date_creation": "2018:09:26 13:18:52",
-        "modele_camera": "Canon EOS 6D"
+        "modele_camera": "Canon EOS 6D",
+        "colors": [
+            "#2e4982",
+            "#946655",
+            "#3c3420",
+            "#6678a3",
+            "#b5a3a3"
+        ]
     },
     {
         "nom": "Mount%20Taranaki%20or%20Mount%20Egmont%2C%20New%20Zealand.jpg",
@@ -357,7 +630,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2017:03:17 12:13:07",
-        "modele_camera": "DMC-GX8"
+        "modele_camera": "DMC-GX8",
+        "colors": [
+            "#7f8b42",
+            "#80a9ef",
+            "#373d2d",
+            "#788ab3",
+            "#dae1f3"
+        ]
     },
     {
         "nom": "MountainIztaccihuatlMexico01.jpg",
@@ -366,7 +646,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#e0e9fd",
+            "#6f7b9b",
+            "#231e1f",
+            "#afc4e5",
+            "#4f5a72"
+        ]
     },
     {
         "nom": "MountAkutan.jpg",
@@ -375,7 +662,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#9d9489",
+            "#30292b",
+            "#bcb6ab",
+            "#ddd9d4",
+            "#74685e"
+        ]
     },
     {
         "nom": "MountDouglas.jpg",
@@ -384,7 +678,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#aaa08f",
+            "#efeeea",
+            "#2e2a1d",
+            "#cac4b8",
+            "#76694f"
+        ]
     },
     {
         "nom": "MSH82%20st%20helens%20plume%20from%20harrys%20ridge%2005-19-82.jpg",
@@ -393,7 +694,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#597597",
+            "#e0e9ed",
+            "#15354d",
+            "#2b587f",
+            "#a7b1c0"
+        ]
     },
     {
         "nom": "North%20face%20of%20Mount%20Shasta%20at%20sunset-2175.jpg",
@@ -402,7 +710,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2022:01:30 17:12:58",
-        "modele_camera": "Canon EOS R5"
+        "modele_camera": "Canon EOS R5",
+        "colors": [
+            "#a5a0b4",
+            "#3d4f6f",
+            "#5a779c",
+            "#7790b6",
+            "#082a52"
+        ]
     },
     {
         "nom": "Ollag%C3%BCe%20from%20Bolivia%28Jan2012%29.jpg",
@@ -411,7 +726,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2012:01:11 09:41:33",
-        "modele_camera": "FinePix HS10 HS11"
+        "modele_camera": "FinePix HS10 HS11",
+        "colors": [
+            "#3c2c22",
+            "#6d7485",
+            "#eaeded",
+            "#3786b7",
+            "#a2abb0"
+        ]
     },
     {
         "nom": "Pico-94-117-13.jpg",
@@ -420,7 +742,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#b6914e",
+            "#b0ecfd",
+            "#242011",
+            "#7787a3",
+            "#594e3d"
+        ]
     },
     {
         "nom": "Pucon-y-su-Volcan.jpg",
@@ -429,7 +758,14 @@
         "format": "JPEG",
         "orientation": "Portrait",
         "date_creation": "2004:11:16 08:08:02",
-        "modele_camera": "C8080WZ"
+        "modele_camera": "C8080WZ",
+        "colors": [
+            "#5175a6",
+            "#171915",
+            "#e2e1e3",
+            "#474643",
+            "#a1a5b2"
+        ]
     },
     {
         "nom": "Pular%20Volcano%20Chile%20015b.jpg",
@@ -438,7 +774,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#7abbec",
+            "#ba7d39",
+            "#864e39",
+            "#2086e6",
+            "#827392"
+        ]
     },
     {
         "nom": "Rucu%20Pichincha%20and%20Trail.jpg",
@@ -447,7 +790,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2009:03:08 09:10:59",
-        "modele_camera": "E-420"
+        "modele_camera": "E-420",
+        "colors": [
+            "#483a29",
+            "#c6d0e6",
+            "#9d8361",
+            "#745e40",
+            "#92c2f0"
+        ]
     },
     {
         "nom": "Saba%20with%20cloud%20cover.jpg",
@@ -456,7 +806,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#b3dafd",
+            "#3b5580",
+            "#263859",
+            "#6681a5",
+            "#d9eefb"
+        ]
     },
     {
         "nom": "Salar%20Maricunga%20Atacama.jpg",
@@ -465,7 +822,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2008:11:19 19:04:40",
-        "modele_camera": "NIKON D40"
+        "modele_camera": "NIKON D40",
+        "colors": [
+            "#0c3887",
+            "#dad7d9",
+            "#8f838c",
+            "#513440",
+            "#426f9f"
+        ]
     },
     {
         "nom": "Sara%20Sara%20Volcano.jpg",
@@ -474,7 +838,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#6a7d95",
+            "#735e23",
+            "#e1e8ec",
+            "#325980",
+            "#3a92dc"
+        ]
     },
     {
         "nom": "Sierra%20Velluda.jpg",
@@ -483,7 +854,14 @@
         "format": "JPEG",
         "orientation": "Portrait",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#4f689e",
+            "#82a0c4",
+            "#161e40",
+            "#314279",
+            "#c4d7e6"
+        ]
     },
     {
         "nom": "Sinabung.jpg",
@@ -492,7 +870,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#577498",
+            "#b7c7c5",
+            "#31322d",
+            "#89a2b6",
+            "#4b4d47"
+        ]
     },
     {
         "nom": "Soufriere.jpg",
@@ -501,7 +886,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#010401",
+            "#fdfefe",
+            "#728c72",
+            "#415d45",
+            "#b2bb98"
+        ]
     },
     {
         "nom": "State%20Route%20504%20eastbound%20approaching%20Mount%20St.%20Helens%20near%20Castle%20Lake.jpg",
@@ -510,7 +902,14 @@
         "format": "MPO",
         "orientation": "Paysage",
         "date_creation": "2022:07:15 15:03:27",
-        "modele_camera": "NEX-5N"
+        "modele_camera": "NEX-5N",
+        "colors": [
+            "#76a6d7",
+            "#666740",
+            "#364732",
+            "#86888b",
+            "#4e6d8d"
+        ]
     },
     {
         "nom": "Tacora.jpg",
@@ -519,7 +918,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#5d8de3",
+            "#b08857",
+            "#413c47",
+            "#5f72ad",
+            "#725f55"
+        ]
     },
     {
         "nom": "Tajumulco%20volcano%2001.jpg",
@@ -528,7 +934,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2006:11:11 15:32:42",
-        "modele_camera": "X250,D560Z,C350Z"
+        "modele_camera": "X250,D560Z,C350Z",
+        "colors": [
+            "#b5b069",
+            "#f7f9f9",
+            "#777749",
+            "#9198a8",
+            "#3c4227"
+        ]
     },
     {
         "nom": "The%20Ring%20of%20Mt.%20Apo.jpg",
@@ -537,7 +950,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2015:07:29 05:40:53",
-        "modele_camera": "NX300"
+        "modele_camera": "NX300",
+        "colors": [
+            "#122119",
+            "#beced2",
+            "#3b585d",
+            "#d8c0a0",
+            "#989890"
+        ]
     },
     {
         "nom": "Uprising-mount%20kerinci.jpg",
@@ -546,7 +966,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#eeeeed",
+            "#4e4e1d",
+            "#1c2213",
+            "#4c5754",
+            "#c8ced0"
+        ]
     },
     {
         "nom": "V%C3%B3lcan%20Cotopaxi.jpg",
@@ -555,7 +982,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#b3bdc8",
+            "#2c2211",
+            "#d7d3cb",
+            "#3c3b3f",
+            "#7b7174"
+        ]
     },
     {
         "nom": "Vatnaj%C3%B6kull.jpeg",
@@ -564,7 +998,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#fafaf9",
+            "#4f5041",
+            "#c4c5c3",
+            "#1e3537",
+            "#7e817d"
+        ]
     },
     {
         "nom": "Volc%C3%A1n%20Chimborazo%20desde%20Riobamba.jpg",
@@ -573,7 +1014,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2014:07:22 07:52:33",
-        "modele_camera": "Canon EOS 7D"
+        "modele_camera": "Canon EOS 7D",
+        "colors": [
+            "#747cad",
+            "#4b93fa",
+            "#d4ccc7",
+            "#4b3c3f",
+            "#996d57"
+        ]
     },
     {
         "nom": "Volc%C3%A1n%20El%20Altar%20-%20Riobamba%20Ecuador.jpg",
@@ -582,7 +1030,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2011:09:18 18:36:19",
-        "modele_camera": "NIKON D60"
+        "modele_camera": "NIKON D60",
+        "colors": [
+            "#a39e9d",
+            "#1d2b36",
+            "#90837e",
+            "#dbae86",
+            "#63575d"
+        ]
     },
     {
         "nom": "Volc%C3%A1n%20Iiliniza.jpg",
@@ -591,7 +1046,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2019:02:16 08:20:39",
-        "modele_camera": "F8331"
+        "modele_camera": "F8331",
+        "colors": [
+            "#898d96",
+            "#312b1c",
+            "#99b7d0",
+            "#6e7679",
+            "#5a522d"
+        ]
     },
     {
         "nom": "Volc%C3%A1n%20Llaima%20y%20Laguna%20Conguill%C3%ADo%2C%20desde%20Sierra%20Nevada.jpg",
@@ -600,7 +1062,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2018:05:05 16:10:50",
-        "modele_camera": "NIKON D500"
+        "modele_camera": "NIKON D500",
+        "colors": [
+            "#69503b",
+            "#5a8bb5",
+            "#333027",
+            "#16639c",
+            "#aebabd"
+        ]
     },
     {
         "nom": "Volc%C3%A1n%20Tungurahua%20Riobamba%20-%20Ecuador.jpg",
@@ -609,7 +1078,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2011:09:18 18:37:02",
-        "modele_camera": "NIKON D60"
+        "modele_camera": "NIKON D60",
+        "colors": [
+            "#d1cfd3",
+            "#144c81",
+            "#b5b0b2",
+            "#0d3457",
+            "#8f949d"
+        ]
     },
     {
         "nom": "Volcan%20baru.jpg",
@@ -618,7 +1094,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#34382c",
+            "#fafbfd",
+            "#66778e",
+            "#505858",
+            "#7c93b7"
+        ]
     },
     {
         "nom": "Volcan%20Cayambe.JPG",
@@ -627,7 +1110,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2009:08:01 18:11:06",
-        "modele_camera": "DMC-FZ28"
+        "modele_camera": "DMC-FZ28",
+        "colors": [
+            "#9aa6cd",
+            "#564f60",
+            "#e3ad96",
+            "#303041",
+            "#938c9d"
+        ]
     },
     {
         "nom": "Volcan%20Licancabur%20Bolivia.jpg",
@@ -636,7 +1126,14 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2003:05:06 00:12:59",
-        "modele_camera": "hp PhotoSmart 43x series"
+        "modele_camera": "hp PhotoSmart 43x series",
+        "colors": [
+            "#b9b7af",
+            "#026aea",
+            "#878891",
+            "#e2e5e4",
+            "#012db6"
+        ]
     },
     {
         "nom": "Volcan-Sangay-Ecuador.jpg",
@@ -645,15 +1142,29 @@
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "2015:09:13 10:48:22",
-        "modele_camera": "NIKON D60"
+        "modele_camera": "NIKON D60",
+        "colors": [
+            "#6889ba",
+            "#dbd9e0",
+            "#2f401e",
+            "#4a72ab",
+            "#7f9ac6"
+        ]
     },
     {
-        "nom": "Vulcano%20With%20Vulcanello.jpg",
-        "chemin": "images\\Vulcano%20With%20Vulcanello.jpg",
+        "nom": "Vulcano20With20Vulcanello.jpg",
+        "chemin": "images\\Vulcano20With20Vulcanello.jpg",
         "taille": "852x559",
         "format": "JPEG",
         "orientation": "Paysage",
         "date_creation": "Inconnu",
-        "modele_camera": "Inconnu"
+        "modele_camera": "Inconnu",
+        "colors": [
+            "#bcc3cd",
+            "#2a252f",
+            "#707072",
+            "#efeeeb",
+            "#4f474c"
+        ]
     }
 ]
