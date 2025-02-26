@@ -55,6 +55,9 @@ Par exemple, les noms de couleurs, \#cat, \#fleur, \#sous-fleur, rose etc.
 Comment prévoyez-vous de traiter ces tags ? Est-il possible d'automatiser ce
 processus ?
 
+On peut utiliser K-means pour analyser et regrouper les couleurs dominantes.
+Pour les autres tags, on peut demander aux utilisateurs de remplir les tags par images.
+
 ## Analyses de données
 
 Demandez à l'utilisateur de sélectionner quelques images et d'ajouter des balises. Pour chaque utilisateur, vous êtes
