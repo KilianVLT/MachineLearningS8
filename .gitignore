@@ -1,3 +1,4 @@
 *.jpg
 metadata.json
 utilisateurs_volcans.json
+recommandations_utilisateurs.json
